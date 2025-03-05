@@ -3,6 +3,11 @@
 // Desafio Super trunfo.c
 
 int main (){
+     int populacao,pontosturisticos;
+     float area,pib;
+     char cidade,código,estado;
 
-    return 0;
+     printf
+
+    
 }
