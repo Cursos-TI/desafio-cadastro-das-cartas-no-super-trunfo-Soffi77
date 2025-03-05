@@ -30,6 +30,5 @@ int main(){
 
      printf("estado: \n");
      scanf ("%s", estado); 
-
-     return 0;
+  return 0;
 }
