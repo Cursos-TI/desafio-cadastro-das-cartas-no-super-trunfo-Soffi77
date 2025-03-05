@@ -29,6 +29,6 @@ int main(){
      scanf ("%s", código);
 
      printf("estado: \n");
-     scanf ("%s", estado); 
-  return 0;
+     scanf ("%s", estado);
+     return 0
 }
